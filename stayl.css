@@ -1,0 +1,23 @@
+body{
+    background-image: url(oRMtEHPj8CxAvJ5P9BUp36.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+#decrement{
+    background-color: crimson;
+}
+#reset{
+    background-color: blue;
+}
+#inc{
+    background-color: green;
+}
+h1{
+    color: white;
+}
